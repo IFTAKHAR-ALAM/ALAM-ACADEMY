@@ -38,3 +38,8 @@ desktop.ini
 # Temporary files
 *.tmp
 *.log
+
+# Large files (optional - remove if you want to track PDFs)
+# *.pdf
+*.zip
+*.tar.gz
